@@ -1,0 +1,501 @@
+﻿Age,Sex,Location,Tumor size,"T category, broad",T category,Histology,SRCC,Grade,LNM
+61,Female,Lower,5,T1,T1a,Diffuse type,FALSE,G3,FALSE
+78,Female,Middle,6,T1,T1a,Diffuse type,FALSE,G3,FALSE
+57,Female,Lower,7,T3,T3,Diffuse type,FALSE,G3,FALSE
+53,Female,Lower,10,T1,T1a,Diffuse type,TRUE,,FALSE
+60,Female,Lower,10,T1,T1a,Diffuse type,TRUE,G3,FALSE
+37,Female,Lower,15,T1,T1b,Diffuse type,TRUE,G3,FALSE
+40,Female,Lower,15,T1,T1a,Diffuse type,FALSE,G3,FALSE
+58,Female,Middle,15,T1,T1a,Diffuse type,TRUE,,FALSE
+65,Female,Middle,15,T1,T1b,Diffuse type,FALSE,G3,FALSE
+76,Female,Lower,15,,,Diffuse type,FALSE,G3,TRUE
+68,Female,Lower,18,T3,T3,Diffuse type,FALSE,G3,TRUE
+48,Female,Lower,20,T1,T1a,Diffuse type,FALSE,G3,FALSE
+56,Female,Lower,20,T3,T3,Diffuse type,FALSE,G3,FALSE
+62,Female,Lower,20,T1,T1a,Diffuse type,TRUE,G3,FALSE
+67,Female,Lower,20,T1,T1b,Diffuse type,FALSE,G3,TRUE
+69,Female,Middle,20,T1,T1b,Diffuse type,FALSE,G3,FALSE
+70,Female,Upper,20,T3,T3,Diffuse type,FALSE,G3,FALSE
+78,Female,Lower,20,T2,T2,Diffuse type,FALSE,G3,FALSE
+52,Female,Middle,25,T1,T1a,Diffuse type,TRUE,G3,FALSE
+53,Female,Middle,25,,,Diffuse type,FALSE,G3,FALSE
+54,Female,Lower,25,T2,T2,Diffuse type,FALSE,G3,TRUE
+56,Female,Lower,25,T4,T4b,Diffuse type,FALSE,G3,FALSE
+68,Female,Lower,25,T1,T1a,Diffuse type,FALSE,G3,FALSE
+69,Female,Lower,25,T3,T3,Diffuse type,FALSE,G3,TRUE
+74,Female,Lower,25,T2,T2,Diffuse type,FALSE,G3,TRUE
+48,Female,Middle,30,T1,T1b,Diffuse type,FALSE,G3,TRUE
+53,Female,Lower,30,T3,T3,Diffuse type,FALSE,G3,TRUE
+65,Female,Upper,30,T3,T3,Diffuse type,FALSE,G3,TRUE
+73,Female,Lower,30,T3,T3,Diffuse type,TRUE,G3,FALSE
+76,Female,Middle,30,T2,T2,Diffuse type,FALSE,G3,FALSE
+39,Female,Lower,35,T1,T1b,Diffuse type,FALSE,,FALSE
+45,Female,Middle,35,T2,T2,Diffuse type,TRUE,G3,FALSE
+50,Female,Lower,35,T1,T1b,Diffuse type,FALSE,G3,TRUE
+58,Female,Lower,35,T2,T2,Diffuse type,FALSE,G3,TRUE
+59,Female,Lower,35,T3,T3,Diffuse type,FALSE,G3,TRUE
+67,Female,Lower,35,T2,T2,Diffuse type,FALSE,G3,FALSE
+67,Female,Upper,35,T1,T1b,Diffuse type,FALSE,G3,TRUE
+82,Female,Middle,35,T1,T1a,Diffuse type,FALSE,G3,TRUE
+29,Female,Lower,40,T2,T2,Diffuse type,TRUE,,TRUE
+54,Female,Middle,40,T1,T1b,Diffuse type,FALSE,G3,FALSE
+60,Female,Lower,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+85,Female,Upper,40,T3,T3,Diffuse type,FALSE,G3,FALSE
+73,Female,Lower,45,T4,T4b,Diffuse type,FALSE,G3,TRUE
+60,Female,Middle,50,T1,T1b,Diffuse type,FALSE,G3,FALSE
+68,Female,Upper,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+68,Female,Lower,50,T2,T2,Diffuse type,FALSE,G3,FALSE
+26,Female,Lower,60,T3,T3,Diffuse type,FALSE,G3,TRUE
+54,Female,Lower,60,T3,T3,Diffuse type,FALSE,G3,TRUE
+62,Female,Lower,60,T3,T3,Diffuse type,FALSE,G3,FALSE
+69,Female,Lower,60,T4,T4b,Diffuse type,FALSE,G3,TRUE
+68,Female,Lower,70,T3,T3,Diffuse type,FALSE,G3,TRUE
+31,Female,Lower,80,T3,T3,Diffuse type,FALSE,G3,TRUE
+63,Female,Lower,80,T2,T2,Diffuse type,FALSE,G3,FALSE
+65,Female,Lower,90,T3,T3,Diffuse type,TRUE,G3,TRUE
+64,Female,Lower,100,T3,T3,Diffuse type,FALSE,G3,FALSE
+65,Female,Middle,100,T3,T3,Diffuse type,TRUE,G3,TRUE
+86,Female,Upper,100,T3,T3,Diffuse type,FALSE,G3,TRUE
+72,Female,Middle,110,T3,T3,Diffuse type,FALSE,G3,TRUE
+89,Female,Middle,130,T3,T3,Diffuse type,FALSE,G3,TRUE
+59,Female,Middle,150,T3,T3,Diffuse type,TRUE,G3,TRUE
+68,Female,Lower,160,T3,T3,Diffuse type,FALSE,G3,TRUE
+71,Male,Lower,7,T1,T1b,Diffuse type,TRUE,G3,FALSE
+65,Male,Upper,10,T3,T3,Diffuse type,FALSE,G3,TRUE
+76,Male,Upper,12,T1,T1b,Diffuse type,FALSE,G2,FALSE
+36,Male,Middle,13,T2,T2,Diffuse type,FALSE,G2,FALSE
+39,Male,Lower,15,T1,T1b,Diffuse type,FALSE,G3,TRUE
+54,Male,Lower,15,T3,T3,Diffuse type,FALSE,G3,FALSE
+58,Male,Lower,15,T2,T2,Diffuse type,FALSE,G3,FALSE
+60,Male,Lower,15,T2,T2,Diffuse type,FALSE,G3,FALSE
+64,Male,Upper,15,T3,T3,Diffuse type,FALSE,G3,TRUE
+72,Male,Upper,15,T3,T3,Diffuse type,FALSE,G3,TRUE
+43,Male,Lower,17,T1,T1b,Diffuse type,FALSE,G3,TRUE
+58,Male,Lower,20,T1,T1b,Diffuse type,FALSE,G3,TRUE
+72,Male,Upper,20,T3,T3,Diffuse type,FALSE,G3,TRUE
+73,Male,Lower,20,T3,T3,Diffuse type,TRUE,G3,TRUE
+70,Male,Lower,23,T2,T2,Diffuse type,FALSE,G3,TRUE
+53,Male,Upper,25,T2,T2,Diffuse type,FALSE,G3,FALSE
+84,Male,Upper,25,T2,T2,Diffuse type,FALSE,G3,TRUE
+63,Male,Lower,28,T3,T3,Diffuse type,FALSE,,TRUE
+54,Male,Lower,30,T2,T2,Diffuse type,FALSE,G3,TRUE
+61,Male,Lower,30,T1,T1a,Diffuse type,TRUE,G3,FALSE
+64,Male,Lower,30,T3,T3,Diffuse type,FALSE,G3,TRUE
+66,Male,Upper,30,T3,T3,Diffuse type,FALSE,G3,TRUE
+69,Male,Lower,30,T3,T3,Diffuse type,FALSE,G3,TRUE
+70,Male,Lower,30,T1,T1a,Diffuse type,FALSE,G3,FALSE
+71,Male,Lower,30,T2,T2,Diffuse type,FALSE,G3,FALSE
+81,Male,Middle,30,T2,T2,Diffuse type,FALSE,G3,FALSE
+53,Male,Lower,35,T3,T3,Diffuse type,FALSE,G3,FALSE
+49,Male,Lower,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+49,Male,Lower,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+53,Male,Middle,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+59,Male,Lower,40,T1,T1b,Diffuse type,FALSE,G3,FALSE
+68,Male,Upper,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+70,Male,Lower,40,T2,T2,Diffuse type,FALSE,G3,TRUE
+74,Male,Lower,40,T3,T3,Diffuse type,TRUE,G3,TRUE
+75,Male,Lower,40,T3,T3,Diffuse type,TRUE,,TRUE
+79,Male,Middle,40,T2,T2,Diffuse type,FALSE,G3,TRUE
+81,Male,Upper,40,T3,T3,Diffuse type,FALSE,G3,TRUE
+44,Male,Lower,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+53,Male,Upper,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+59,Male,Lower,50,T3,T3,Diffuse type,FALSE,G3,FALSE
+60,Male,Middle,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+63,Male,Lower,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+64,Male,Upper,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+67,Male,Upper,50,T3,T3,Diffuse type,TRUE,,TRUE
+68,Male,Upper,50,T3,T3,Diffuse type,FALSE,G3,TRUE
+71,Male,Lower,50,T3,T3,Diffuse type,TRUE,,TRUE
+71,Male,Lower,50,T2,T2,Diffuse type,FALSE,G3,TRUE
+81,Male,Upper,50,T3,T3,Diffuse type,FALSE,G3,FALSE
+83,Male,Lower,50,T2,T2,Diffuse type,TRUE,G3,TRUE
+65,Male,Middle,55,T3,T3,Diffuse type,FALSE,G3,TRUE
+66,Male,Lower,55,T3,T3,Diffuse type,FALSE,G3,TRUE
+62,Male,Middle,60,T2,T2,Diffuse type,FALSE,G3,TRUE
+65,Male,Lower,60,T3,T3,Diffuse type,FALSE,G3,TRUE
+75,Male,Upper,60,T3,T3,Diffuse type,FALSE,G3,FALSE
+76,Male,Lower,60,T2,T2,Diffuse type,TRUE,G3,TRUE
+73,Male,Upper,65,T2,T2,Diffuse type,FALSE,G3,FALSE
+68,Male,Lower,70,T3,T3,Diffuse type,FALSE,G3,TRUE
+73,Male,Lower,70,T2,T2,Diffuse type,FALSE,G3,TRUE
+60,Male,Lower,80,T3,T3,Diffuse type,FALSE,G3,TRUE
+36,Male,Lower,85,T4,T4a,Diffuse type,TRUE,,TRUE
+73,Male,Upper,88,T3,T3,Diffuse type,FALSE,G3,TRUE
+51,Male,Middle,90,T3,T3,Diffuse type,FALSE,G3,TRUE
+62,Male,Middle,110,T3,T3,Diffuse type,FALSE,G3,TRUE
+78,Male,,,T4,T4b,Diffuse type,FALSE,G3,TRUE
+64,Female,Upper,10,T1,T1b,Intestinal type,FALSE,G2,FALSE
+67,Female,Upper,12,T1,T1a,Intestinal type,FALSE,G3,FALSE
+69,Female,Lower,13,T1,T1a,Intestinal type,FALSE,G2,FALSE
+54,Female,Lower,15,T1,T1b,Intestinal type,FALSE,G2,FALSE
+55,Female,Lower,15,T1,T1b,Intestinal type,FALSE,G2,FALSE
+69,Female,Lower,15,T1,T1b,Intestinal type,FALSE,G2,FALSE
+67,Female,Upper,18,T1,T1b,Intestinal type,FALSE,G3,FALSE
+75,Female,Upper,20,T3,T3,Intestinal type,FALSE,G2,TRUE
+78,Female,Upper,25,T3,T3,Intestinal type,FALSE,G2,TRUE
+66,Female,Upper,30,T3,T3,Intestinal type,FALSE,G2,FALSE
+64,Female,Lower,40,T4,T4a,Intestinal type,FALSE,G2,TRUE
+26,Female,Lower,45,T3,T3,Intestinal type,FALSE,G3,TRUE
+80,Female,Lower,50,T3,T3,Intestinal type,FALSE,G2,FALSE
+80,Female,Lower,55,T3,T3,Intestinal type,FALSE,G3,TRUE
+78,Female,Lower,60,T2,T2,Intestinal type,FALSE,G2,FALSE
+67,Female,Lower,70,T3,T3,Intestinal type,FALSE,G2,TRUE
+69,Female,Lower,70,T2,T2,Intestinal type,FALSE,G2,TRUE
+82,Female,Lower,75,T3,T3,Intestinal type,FALSE,G2,FALSE
+73,Female,Lower,90,T2,T2,Intestinal type,FALSE,G2,TRUE
+75,Female,Lower,90,T2,T2,Intestinal type,FALSE,G3,FALSE
+76,Male,Upper,5,T1,T1a,Intestinal type,FALSE,G1,FALSE
+65,Male,Upper,7,T1,T1b,Intestinal type,FALSE,G2,FALSE
+55,Male,Middle,10,T1,T1b,Intestinal type,FALSE,G2,FALSE
+57,Male,Upper,10,T1,T1b,Intestinal type,FALSE,G2,FALSE
+63,Male,Lower,10,T1,T1b,Intestinal type,FALSE,G1,TRUE
+64,Male,Lower,10,T2,T2,Intestinal type,FALSE,G2,FALSE
+67,Male,Lower,10,T1,T1a,Intestinal type,FALSE,G2,FALSE
+71,Male,Middle,10,T1,T1a,Intestinal type,FALSE,G2,FALSE
+73,Male,Lower,10,T1,T1b,Intestinal type,FALSE,G1,FALSE
+74,Male,Middle,10,T1,T1b,Intestinal type,FALSE,G2,FALSE
+79,Male,Upper,10,T3,T3,Intestinal type,FALSE,G2,FALSE
+68,Male,Upper,12,T1,T1b,Intestinal type,FALSE,G3,FALSE
+69,Male,Lower,13,T1,T1a,Intestinal type,FALSE,G2,FALSE
+72,Male,Lower,13,T1,T1b,Intestinal type,FALSE,G2,TRUE
+73,Male,Upper,13,T2,T2,Intestinal type,FALSE,G2,TRUE
+56,Male,Upper,15,T3,T3,Intestinal type,FALSE,G3,FALSE
+56,Male,Middle,15,T1,T1b,Intestinal type,FALSE,G2,TRUE
+63,Male,Lower,15,T1,T1a,Intestinal type,FALSE,G1,FALSE
+65,Male,Lower,15,T2,T2,Intestinal type,FALSE,G3,FALSE
+66,Male,Upper,15,T1,T1b,Intestinal type,FALSE,G2,FALSE
+77,Male,Upper,15,T2,T2,Intestinal type,FALSE,G2,FALSE
+52,Male,Upper,17,T1,T1b,Intestinal type,FALSE,G2,FALSE
+83,Male,Lower,17,T1,T1b,Intestinal type,FALSE,G1,FALSE
+64,Male,Lower,18,T2,T2,Intestinal type,FALSE,G2,FALSE
+51,Male,Lower,20,T2,T2,Intestinal type,FALSE,G3,TRUE
+62,Male,Lower,20,T3,T3,Intestinal type,FALSE,G3,TRUE
+63,Male,Upper,20,T2,T2,Intestinal type,FALSE,G2,FALSE
+63,Male,Lower,20,T1,T1b,Intestinal type,FALSE,G1,FALSE
+68,Male,Middle,20,T1,T1b,Intestinal type,FALSE,G1,FALSE
+68,Male,Lower,20,T1,T1a,Intestinal type,FALSE,G2,FALSE
+69,Male,Lower,20,T2,T2,Intestinal type,FALSE,G3,FALSE
+69,Male,Upper,20,T1,T1b,Intestinal type,FALSE,G3,FALSE
+70,Male,Lower,20,T1,T1b,Intestinal type,FALSE,G2,FALSE
+71,Male,Lower,20,T3,T3,Intestinal type,FALSE,G2,FALSE
+73,Male,Upper,20,T1,T1b,Intestinal type,FALSE,G3,FALSE
+76,Male,Lower,20,T1,T1b,Intestinal type,FALSE,G3,FALSE
+68,Male,Lower,23,T1,T1b,Intestinal type,FALSE,G2,FALSE
+79,Male,Lower,23,T1,T1a,Intestinal type,FALSE,G2,FALSE
+54,Male,Lower,25,T3,T3,Intestinal type,FALSE,G2,FALSE
+57,Male,Lower,25,T3,T3,Intestinal type,FALSE,G2,FALSE
+62,Male,Upper,25,T3,T3,Intestinal type,FALSE,G2,TRUE
+62,Male,Lower,25,T1,T1a,Intestinal type,FALSE,G2,TRUE
+65,Male,Lower,25,T1,T1b,Intestinal type,FALSE,G2,FALSE
+65,Male,Middle,25,T1,T1a,Intestinal type,FALSE,G3,FALSE
+67,Male,Upper,25,T3,T3,Intestinal type,FALSE,G2,FALSE
+67,Male,Upper,25,T1,T1b,Intestinal type,FALSE,G2,FALSE
+71,Male,Lower,25,T1,T1b,Intestinal type,FALSE,G3,FALSE
+71,Male,Lower,25,T1,T1a,Intestinal type,FALSE,G2,FALSE
+74,Male,Lower,25,T1,T1b,Intestinal type,FALSE,G2,FALSE
+78,Male,Upper,25,T3,T3,Intestinal type,FALSE,G2,TRUE
+62,Male,Lower,27,T1,T1b,Intestinal type,FALSE,G3,FALSE
+69,Male,Lower,28,T3,T3,Intestinal type,FALSE,G3,TRUE
+59,Male,Lower,30,T2,T2,Intestinal type,FALSE,G3,TRUE
+64,Male,Lower,30,T4,T4a,Intestinal type,FALSE,G2,TRUE
+68,Male,Upper,30,T1,T1b,Intestinal type,FALSE,G2,FALSE
+68,Male,Upper,30,T1,T1a,Intestinal type,FALSE,G2,FALSE
+69,Male,Upper,30,T2,T2,Intestinal type,FALSE,G3,TRUE
+70,Male,Upper,30,T3,T3,Intestinal type,FALSE,G3,TRUE
+70,Male,Upper,30,T1,T1b,Intestinal type,FALSE,G2,FALSE
+71,Male,Upper,30,T3,T3,Intestinal type,FALSE,G3,TRUE
+72,Male,Upper,30,T3,T3,Intestinal type,FALSE,G3,TRUE
+74,Male,Lower,30,T1,T1b,Intestinal type,FALSE,G2,FALSE
+66,Male,Middle,32,T1,T1b,Intestinal type,FALSE,G2,FALSE
+74,Male,Upper,35,T3,T3,Intestinal type,FALSE,G2,FALSE
+85,Male,Lower,35,T1,T1a,Intestinal type,FALSE,G2,FALSE
+60,Male,Middle,40,T3,T3,Intestinal type,FALSE,G3,FALSE
+62,Male,Lower,40,T3,T3,Intestinal type,FALSE,G2,TRUE
+65,Male,Lower,40,T1,T1a,Intestinal type,FALSE,G2,FALSE
+66,Male,Upper,40,T3,T3,Intestinal type,FALSE,G2,TRUE
+67,Male,Upper,40,T3,T3,Intestinal type,FALSE,G2,FALSE
+70,Male,Lower,40,T2,T2,Intestinal type,FALSE,G2,TRUE
+80,Male,Lower,40,T3,T3,Intestinal type,FALSE,G2,TRUE
+84,Male,Lower,40,T2,T2,Intestinal type,FALSE,G2,FALSE
+66,Male,Upper,42,T3,T3,Intestinal type,FALSE,G2,TRUE
+51,Male,Upper,45,T1,T1a,Intestinal type,FALSE,G3,FALSE
+57,Male,Upper,45,T2,T2,Intestinal type,FALSE,G2,TRUE
+74,Male,Lower,45,T3,T3,Intestinal type,FALSE,G2,TRUE
+75,Male,Upper,45,T3,T3,Intestinal type,FALSE,G2,FALSE
+55,Male,Lower,50,T2,T2,Intestinal type,FALSE,G2,TRUE
+56,Male,Upper,50,T3,T3,Intestinal type,FALSE,G3,FALSE
+58,Male,Upper,50,T2,T2,Intestinal type,FALSE,G2,TRUE
+63,Male,Lower,50,T1,T1a,Intestinal type,FALSE,G3,TRUE
+66,Male,Upper,50,T3,T3,Intestinal type,FALSE,G2,FALSE
+71,Male,Upper,50,T2,T2,Intestinal type,FALSE,G2,FALSE
+72,Male,Lower,50,T3,T3,Intestinal type,FALSE,G2,TRUE
+82,Male,Middle,50,T3,T3,Intestinal type,FALSE,G2,TRUE
+83,Male,Lower,50,T2,T2,Intestinal type,FALSE,G2,FALSE
+69,Male,Upper,60,T2,T2,Intestinal type,FALSE,G2,TRUE
+71,Male,Upper,60,T3,T3,Intestinal type,FALSE,G2,FALSE
+81,Male,Lower,60,T2,T2,Intestinal type,FALSE,G2,TRUE
+85,Male,Middle,60,T3,T3,Intestinal type,FALSE,G2,FALSE
+64,Male,Upper,65,T3,T3,Intestinal type,FALSE,G3,TRUE
+76,Male,Lower,90,T4,T4a,Intestinal type,FALSE,G2,TRUE
+81,Male,Lower,90,T3,T3,Intestinal type,FALSE,G2,TRUE
+69,Male,Upper,110,T3,T3,Intestinal type,FALSE,G2,FALSE
+69,Male,Upper,110,T3,T3,Intestinal type,FALSE,G2,TRUE
+64,Male,Upper,150,T2,T2,Intestinal type,FALSE,G3,FALSE
+66,Female,Lower,5,T2,T2,Mixed/Other,FALSE,,FALSE
+40,Female,Middle,8,T3,T3,Mixed/Other,FALSE,G3,TRUE
+47,Female,Upper,10,T3,T3,Mixed/Other,FALSE,G3,FALSE
+78,Female,Lower,10,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+33,Female,Lower,12,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+47,Female,Lower,12,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+66,Female,Lower,12,T2,T2,Mixed/Other,FALSE,G3,FALSE
+52,Female,Lower,15,T2,T2,Mixed/Other,FALSE,G3,TRUE
+53,Female,Middle,15,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+56,Female,Middle,15,T1,T1a,Mixed/Other,TRUE,G3,FALSE
+63,Female,Middle,15,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+71,Female,Lower,15,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+72,Female,Lower,17,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+30,Female,Lower,20,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+69,Female,Upper,20,T2,T2,Mixed/Other,FALSE,G3,TRUE
+43,Female,Lower,25,T2,T2,Mixed/Other,FALSE,G3,TRUE
+62,Female,Middle,25,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+62,Female,Lower,25,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+64,Female,Middle,25,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+73,Female,Lower,25,T3,T3,Mixed/Other,FALSE,G3,TRUE
+47,Female,Lower,27,T3,T3,Mixed/Other,FALSE,G3,TRUE
+47,Female,Middle,30,T1,T1b,Mixed/Other,TRUE,G3,FALSE
+59,Female,Lower,30,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+66,Female,Upper,30,T3,T3,Mixed/Other,FALSE,G2,FALSE
+71,Female,Upper,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+75,Female,Upper,30,T2,T2,Mixed/Other,FALSE,G3,FALSE
+46,Female,Middle,35,T2,T2,Mixed/Other,FALSE,G3,TRUE
+52,Female,Middle,40,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+75,Female,Middle,40,T4,T4b,Mixed/Other,TRUE,G3,TRUE
+80,Female,Lower,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+72,Female,Lower,45,T1,T1a,Mixed/Other,FALSE,G3,TRUE
+76,Female,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+81,Female,Upper,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+81,Female,Middle,50,T2,T2,Mixed/Other,FALSE,G3,TRUE
+53,Female,Upper,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+74,Female,Upper,55,T3,T3,Mixed/Other,FALSE,G2,TRUE
+57,Female,Lower,60,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+59,Female,Lower,60,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Female,Lower,70,T3,T3,Mixed/Other,FALSE,G3,TRUE
+78,Female,Upper,70,T2,T2,Mixed/Other,FALSE,G2,FALSE
+63,Female,Lower,75,T2,T2,Mixed/Other,FALSE,G3,TRUE
+84,Female,Lower,75,T3,T3,Mixed/Other,FALSE,G3,FALSE
+67,Female,Lower,80,T3,T3,Mixed/Other,FALSE,G3,TRUE
+76,Female,Lower,90,T2,T2,Mixed/Other,FALSE,G3,TRUE
+64,Female,Upper,100,T3,T3,Mixed/Other,FALSE,G3,TRUE
+65,Female,Lower,100,T2,T2,Mixed/Other,FALSE,G3,TRUE
+70,Female,Upper,100,T3,T3,Mixed/Other,FALSE,G3,TRUE
+59,Female,Middle,115,T3,T3,Mixed/Other,TRUE,,TRUE
+80,Female,Upper,115,T3,T3,Mixed/Other,FALSE,G3,TRUE
+58,Male,Lower,5,T1,T1a,Mixed/Other,FALSE,G2,FALSE
+66,Male,Upper,5,T2,T2,Mixed/Other,FALSE,G3,FALSE
+71,Male,Upper,5,T1,T1b,Mixed/Other,FALSE,G2,FALSE
+60,Male,Lower,6,T2,T2,Mixed/Other,FALSE,G3,TRUE
+66,Male,Lower,6,T1,T1a,Mixed/Other,FALSE,,FALSE
+65,Male,Upper,7,T3,T3,Mixed/Other,FALSE,G3,TRUE
+68,Male,Upper,7,T2,T2,Mixed/Other,FALSE,G3,FALSE
+69,Male,Upper,7,T1,T1a,Mixed/Other,FALSE,,FALSE
+60,Male,Lower,8,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+65,Male,Middle,8,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+71,Male,Lower,8,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+51,Male,Lower,9,,,Mixed/Other,FALSE,,FALSE
+74,Male,Lower,9,T1,T1a,Mixed/Other,FALSE,,FALSE
+49,Male,Lower,10,T1,T1b,Mixed/Other,FALSE,G2,FALSE
+52,Male,Lower,10,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+53,Male,Lower,10,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+54,Male,Lower,10,T2,T2,Mixed/Other,FALSE,G3,FALSE
+56,Male,Lower,10,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+56,Male,Lower,10,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+67,Male,Upper,10,T3,T3,Mixed/Other,FALSE,G3,TRUE
+67,Male,Upper,10,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+68,Male,Upper,10,T2,T2,Mixed/Other,FALSE,G3,FALSE
+68,Male,Upper,10,T2,T2,Mixed/Other,FALSE,G3,TRUE
+70,Male,Upper,10,T1,T1b,Mixed/Other,FALSE,,FALSE
+79,Male,Upper,10,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+53,Male,Lower,15,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Lower,15,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+63,Male,Lower,15,T3,T3,Mixed/Other,FALSE,G3,TRUE
+65,Male,Upper,15,T3,T3,Mixed/Other,FALSE,G3,TRUE
+66,Male,Upper,15,T3,T3,Mixed/Other,FALSE,G3,TRUE
+67,Male,Lower,15,T1,T1b,Mixed/Other,FALSE,G2,FALSE
+71,Male,Lower,15,T2,T2,Mixed/Other,FALSE,,FALSE
+73,Male,Upper,15,,,Mixed/Other,FALSE,G3,TRUE
+73,Male,Upper,16,T2,T2,Mixed/Other,FALSE,G3,TRUE
+71,Male,Upper,17,T3,T3,Mixed/Other,FALSE,G3,TRUE
+78,Male,Upper,18,T3,T3,Mixed/Other,FALSE,G3,TRUE
+55,Male,Lower,20,T2,T2,Mixed/Other,FALSE,G3,FALSE
+56,Male,Lower,20,T1,T1a,Mixed/Other,FALSE,G2,FALSE
+65,Male,Upper,20,T3,T3,Mixed/Other,FALSE,G3,FALSE
+65,Male,Lower,20,T2,T2,Mixed/Other,FALSE,G1,FALSE
+65,Male,Upper,20,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+66,Male,Lower,20,T3,T3,Mixed/Other,FALSE,G3,TRUE
+67,Male,Upper,20,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+67,Male,Upper,20,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+70,Male,Middle,20,T2,T2,Mixed/Other,FALSE,G3,TRUE
+71,Male,Lower,20,T2,T2,Mixed/Other,FALSE,G3,TRUE
+72,Male,Upper,20,T3,T3,Mixed/Other,FALSE,G3,TRUE
+72,Male,Upper,20,T2,T2,Mixed/Other,FALSE,,TRUE
+75,Male,Lower,20,T3,T3,Mixed/Other,TRUE,G3,TRUE
+77,Male,Lower,20,T2,T2,Mixed/Other,FALSE,G3,FALSE
+77,Male,Lower,20,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+86,Male,Lower,20,T3,T3,Mixed/Other,FALSE,G3,TRUE
+64,Male,Upper,22,T3,T3,Mixed/Other,FALSE,G3,TRUE
+55,Male,Lower,25,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+56,Male,Upper,25,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Lower,25,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Middle,25,T2,T2,Mixed/Other,FALSE,G2,FALSE
+57,Male,Lower,25,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+64,Male,Upper,25,,,Mixed/Other,FALSE,G3,FALSE
+66,Male,Lower,25,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+68,Male,Upper,25,T2,T2,Mixed/Other,FALSE,G3,FALSE
+72,Male,Upper,25,T3,T3,Mixed/Other,FALSE,G3,FALSE
+73,Male,Upper,25,T3,T3,Mixed/Other,FALSE,G3,TRUE
+76,Male,Lower,25,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+80,Male,Upper,25,T3,T3,Mixed/Other,FALSE,G3,TRUE
+80,Male,Lower,25,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+81,Male,Upper,25,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+53,Male,Upper,28,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+33,Male,Lower,30,T2,T2,Mixed/Other,TRUE,G3,TRUE
+39,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+52,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+52,Male,Lower,30,T2,T2,Mixed/Other,FALSE,G2,TRUE
+54,Male,Lower,30,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+55,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+55,Male,Lower,30,T1,T1b,Mixed/Other,FALSE,G2,FALSE
+56,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,FALSE
+61,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+64,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+64,Male,Upper,30,T2,T2,Mixed/Other,FALSE,G3,TRUE
+65,Male,Upper,30,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+65,Male,Upper,30,T2,T2,Mixed/Other,FALSE,G3,FALSE
+66,Male,Middle,30,T3,T3,Mixed/Other,FALSE,G3,FALSE
+66,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,FALSE
+66,Male,Lower,30,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+71,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+72,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+74,Male,Upper,30,T3,T3,Mixed/Other,FALSE,G3,TRUE
+75,Male,Upper,30,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+76,Male,Upper,30,T2,T2,Mixed/Other,FALSE,G3,FALSE
+77,Male,Lower,30,T2,T2,Mixed/Other,FALSE,G3,TRUE
+61,Male,Upper,33,T4,T4a,Mixed/Other,FALSE,,TRUE
+46,Male,Middle,35,T1,T1b,Mixed/Other,TRUE,G3,FALSE
+60,Male,Lower,35,T2,T2,Mixed/Other,FALSE,G3,TRUE
+63,Male,Upper,35,T3,T3,Mixed/Other,FALSE,G3,TRUE
+64,Male,Lower,35,T4,T4a,Mixed/Other,FALSE,G3,FALSE
+67,Male,Upper,35,T2,T2,Mixed/Other,FALSE,G3,FALSE
+68,Male,Lower,35,T3,T3,Mixed/Other,FALSE,G3,FALSE
+70,Male,Upper,35,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+74,Male,Upper,35,T3,T3,Mixed/Other,FALSE,G3,FALSE
+76,Male,Lower,35,T2,T2,Mixed/Other,FALSE,G2,FALSE
+77,Male,Lower,35,T3,T3,Mixed/Other,FALSE,G3,TRUE
+77,Male,Lower,35,T1,T1a,Mixed/Other,FALSE,G3,TRUE
+80,Male,Lower,35,T2,T2,Mixed/Other,FALSE,G3,TRUE
+64,Male,Lower,36,T2,T2,Mixed/Other,FALSE,G3,TRUE
+83,Male,Lower,38,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Lower,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Upper,40,T2,T2,Mixed/Other,FALSE,G3,FALSE
+56,Male,Upper,40,T2,T2,Mixed/Other,FALSE,G3,FALSE
+59,Male,Lower,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+60,Male,Lower,40,T1,T1a,Mixed/Other,FALSE,,FALSE
+65,Male,Middle,40,T2,T2,Mixed/Other,FALSE,G3,TRUE
+66,Male,Upper,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+68,Male,Lower,40,T4,T4b,Mixed/Other,FALSE,G3,TRUE
+70,Male,Lower,40,T4,T4b,Mixed/Other,FALSE,G3,TRUE
+71,Male,Middle,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+72,Male,Lower,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+72,Male,Lower,40,T2,T2,Mixed/Other,FALSE,G3,FALSE
+73,Male,Upper,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,40,T3,T3,Mixed/Other,FALSE,G3,TRUE
+75,Male,Upper,40,T2,T2,Mixed/Other,FALSE,G3,FALSE
+78,Male,Lower,40,T2,T2,Mixed/Other,FALSE,G3,FALSE
+79,Male,Lower,42,T2,T2,Mixed/Other,FALSE,G3,FALSE
+54,Male,Upper,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+59,Male,Upper,45,T1,T1a,Mixed/Other,FALSE,G3,TRUE
+64,Male,Upper,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+65,Male,Lower,45,T3,T3,Mixed/Other,FALSE,G3,FALSE
+65,Male,Lower,45,T2,T2,Mixed/Other,FALSE,G3,TRUE
+66,Male,Upper,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+67,Male,Middle,45,T3,T3,Mixed/Other,FALSE,G2,TRUE
+67,Male,Lower,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+68,Male,Upper,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,45,T3,T3,Mixed/Other,FALSE,G3,TRUE
+48,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+49,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+50,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+56,Male,Lower,50,T3,T3,Mixed/Other,TRUE,G3,FALSE
+56,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+58,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,FALSE
+59,Male,Lower,50,T4,T4b,Mixed/Other,FALSE,G3,TRUE
+61,Male,Upper,50,T2,T2,Mixed/Other,FALSE,G3,FALSE
+66,Male,Lower,50,T2,T2,Mixed/Other,FALSE,G2,FALSE
+67,Male,Middle,50,T3,T3,Mixed/Other,FALSE,G3,FALSE
+69,Male,Upper,50,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+69,Male,Lower,50,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+69,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+69,Male,Middle,50,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+71,Male,Middle,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+71,Male,Middle,50,T2,T2,Mixed/Other,FALSE,G3,TRUE
+72,Male,Upper,50,T2,T2,Mixed/Other,FALSE,G2,FALSE
+73,Male,Upper,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,50,T2,T2,Mixed/Other,FALSE,G3,TRUE
+74,Male,Upper,50,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+76,Male,Lower,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+77,Male,Upper,50,T3,T3,Mixed/Other,FALSE,G3,TRUE
+77,Male,Upper,50,T2,T2,Mixed/Other,FALSE,G2,TRUE
+57,Male,Lower,55,T3,T3,Mixed/Other,FALSE,G3,FALSE
+64,Male,Lower,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+67,Male,Upper,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+68,Male,Lower,55,T1,T1b,Mixed/Other,FALSE,G3,TRUE
+71,Male,Lower,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+76,Male,Upper,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+87,Male,Lower,55,T3,T3,Mixed/Other,FALSE,G3,TRUE
+36,Male,Lower,60,T3,T3,Mixed/Other,TRUE,,TRUE
+49,Male,Lower,60,T3,T3,Mixed/Other,FALSE,G3,TRUE
+54,Male,Lower,60,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+55,Male,Lower,60,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+57,Male,Lower,60,T3,T3,Mixed/Other,FALSE,G2,TRUE
+59,Male,Upper,60,T3,T3,Mixed/Other,FALSE,G3,TRUE
+65,Male,Upper,60,T3,T3,Mixed/Other,FALSE,G3,TRUE
+68,Male,Upper,60,T1,T1a,Mixed/Other,FALSE,G3,TRUE
+74,Male,Lower,60,T3,T3,Mixed/Other,FALSE,,TRUE
+74,Male,Lower,60,T2,T2,Mixed/Other,FALSE,G3,TRUE
+75,Male,Lower,60,T3,T3,Mixed/Other,FALSE,G2,TRUE
+81,Male,Lower,60,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+56,Male,Upper,65,T2,T2,Mixed/Other,FALSE,G3,TRUE
+63,Male,Upper,65,T3,T3,Mixed/Other,FALSE,G3,FALSE
+63,Male,Lower,65,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,65,T4,T4a,Mixed/Other,FALSE,G3,TRUE
+73,Male,Upper,65,T3,T3,Mixed/Other,FALSE,G3,TRUE
+77,Male,Lower,65,T3,T3,Mixed/Other,FALSE,G3,TRUE
+81,Male,Lower,65,T3,T3,Mixed/Other,FALSE,G3,TRUE
+88,Male,Lower,65,T3,T3,Mixed/Other,FALSE,G2,TRUE
+62,Male,Upper,70,T3,T3,Mixed/Other,FALSE,G3,TRUE
+69,Male,Upper,70,T3,T3,Mixed/Other,FALSE,G3,TRUE
+70,Male,Lower,70,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+72,Male,Middle,70,T2,T2,Mixed/Other,FALSE,G3,TRUE
+74,Male,Upper,70,T3,T3,Mixed/Other,FALSE,G3,TRUE
+76,Male,Lower,70,T2,T2,Mixed/Other,FALSE,G3,FALSE
+83,Male,Lower,70,T3,T3,Mixed/Other,FALSE,G2,TRUE
+61,Male,Lower,80,T3,T3,Mixed/Other,FALSE,,TRUE
+63,Male,Lower,80,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+67,Male,Upper,80,T1,T1b,Mixed/Other,FALSE,G3,FALSE
+70,Male,Upper,80,T3,T3,Mixed/Other,FALSE,G3,TRUE
+70,Male,Middle,80,T3,T3,Mixed/Other,TRUE,,TRUE
+76,Male,Upper,80,T2,T2,Mixed/Other,FALSE,G3,TRUE
+55,Male,Upper,90,T3,T3,Mixed/Other,FALSE,G3,TRUE
+69,Male,Upper,90,T2,T2,Mixed/Other,FALSE,G3,TRUE
+77,Male,Lower,90,T2,T2,Mixed/Other,FALSE,G3,FALSE
+86,Male,Upper,90,T3,T3,Mixed/Other,TRUE,G3,TRUE
+56,Male,Upper,100,T1,T1a,Mixed/Other,FALSE,G3,FALSE
+67,Male,Upper,100,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Lower,100,T3,T3,Mixed/Other,FALSE,,TRUE
+78,Male,Upper,100,T3,T3,Mixed/Other,FALSE,G3,TRUE
+73,Male,Middle,110,T3,T3,Mixed/Other,FALSE,G3,TRUE
+77,Male,Lower,150,T3,T3,Mixed/Other,FALSE,G3,TRUE
+76,Male,Lower,160,T3,T3,Mixed/Other,FALSE,G3,FALSE
+68,Male,Upper,166,T2,T2,Mixed/Other,FALSE,G3,TRUE
